@@ -1,0 +1,20 @@
+
+###> symfony/framework-bundle ###
+/src/easyAdmin/mk-symfony/.env.local
+/src/easyAdmin/mk-symfony/.env.local.php
+/src/easyAdmin/mk-symfony/.env.*.local
+/src/easyAdmin/mk-symfony/config/secrets/prod/prod.decrypt.private.php
+/src/easyAdmin/mk-symfony/public/bundles/
+/src/easyAdmin/mk-symfony/var/
+/src/easyAdmin/mk-symfony/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+/src/easyAdmin/mk-symfony/.phpunit.result.cache
+/src/easyAdmin/mk-symfony/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> phpunit/phpunit ###
+/src/easyAdmin/mk-symfony/phpunit.xml
+/src/easyAdmin/mk-symfony/.phpunit.result.cache
+###< phpunit/phpunit ###

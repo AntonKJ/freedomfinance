@@ -1,0 +1,1 @@
+cat db.sql | docker exec -it mariadb /usr/bin/mysql -u root --password=rootpwd3245
